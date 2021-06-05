@@ -1,0 +1,334 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "interval_intertitial": "5",
+      "startappid": "201669628",
+      "fan_inter": "612492376332507_612493222999089",
+      "fan_banner_native": "612492376332507_612492762999135",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "unityID": "3896203",
+      "unity_inter": "video",
+      "unity_banner": "bannerid",
+      "packagename": "mak.ad.wallpaperalienx"
+    }
+  ],
+  "More":
+  [
+
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Plankton",
+      "image": "file:///android_asset/plankton/3.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Krabs",
+      "image": "file:///android_asset/krab/4.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Sandy",
+      "image": "file:///android_asset/sandy/3.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Spongebob",
+      "image": "file:///android_asset/spongebob/11.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "squidward/3",
+      "image": "file:///android_asset/squidward/3.jpg"
+
+    }	
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Plankton",
+      "title":"Plankton 1",
+      "image":"file:///android_asset/plankton/1.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Plankton",
+      "title":"Plankton 2",
+      "image":"file:///android_asset/plankton/2.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Plankton",
+      "title":"Plankton 3",
+      "image":"file:///android_asset/plankton/3.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Plankton",
+      "title":"Plankton 4",
+      "image":"file:///android_asset/plankton/4.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Krabs",
+      "title":"Krabs 1",
+      "image":"file:///android_asset/krab/1.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Krabs",
+      "title":"Krabs 2",
+      "image":"file:///android_asset/krab/2.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Krabs",
+      "title":"Krabs 3",
+      "image":"file:///android_asset/krab/3.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Krabs",
+      "title":"Krabs 4",
+      "image":"file:///android_asset/krab/4.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Patrick",
+      "title":"Patrick 1",
+      "image":"file:///android_asset/patrick/1.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Patrick",
+      "title":"Patrick 2",
+      "image":"file:///android_asset/patrick/2.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Patrick",
+      "title":"Patrick 3",
+      "image":"file:///android_asset/patrick/3.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Patrick",
+      "title":"Patrick 4",
+      "image":"file:///android_asset/patrick/4.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Patrick",
+      "title":"Patrick 5",
+      "image":"file:///android_asset/patrick/5.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Patrick",
+      "title":"Patrick 6",
+      "image":"file:///android_asset/patrick/6.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Patrick",
+      "title":"Patrick 7",
+      "image":"file:///android_asset/patrick/7.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Patrick",
+      "title":"Patrick 8",
+      "image":"file:///android_asset/patrick/8.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Patrick",
+      "title":"Patrick 9",
+      "image":"file:///android_asset/patrick/9.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Patrick",
+      "title":"Patrick 10",
+      "image":"file:///android_asset/patrick/10.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Patrick",
+      "title":"Patrick 11",
+      "image":"file:///android_asset/patrick/11.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Patrick",
+      "title":"Patrick 12",
+      "image":"file:///android_asset/patrick/12.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Patrick",
+      "title":"Patrick 13",
+      "image":"file:///android_asset/patrick/13.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Patrick",
+      "title":"Patrick 14",
+      "image":"file:///android_asset/patrick/14.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Sandy",
+      "title":"Sandy 1",
+      "image":"file:///android_asset/sandy/1.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Sandy",
+      "title":"Sandy 2",
+      "image":"file:///android_asset/sandy/2.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Sandy",
+      "title":"Sandy 3",
+      "image":"file:///android_asset/sandy/3.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Sandy",
+      "title":"Sandy 4",
+      "image":"file:///android_asset/sandy/4.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Sandy",
+      "title":"Sandy 5",
+      "image":"file:///android_asset/sandy/5.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Spongebob",
+      "title":"Spongebob 1",
+      "image":"file:///android_asset/spongebob/1.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Spongebob",
+      "title":"Spongebob 2",
+      "image":"file:///android_asset/spongebob/2.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Spongebob",
+      "title":"Spongebob 3",
+      "image":"file:///android_asset/spongebob/3.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Spongebob",
+      "title":"Spongebob 4",
+      "image":"file:///android_asset/spongebob/4.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Spongebob",
+      "title":"Spongebob 5",
+      "image":"file:///android_asset/spongebob/5.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Spongebob",
+      "title":"Spongebob 6",
+      "image":"file:///android_asset/spongebob/6.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Spongebob",
+      "title":"Spongebob 7",
+      "image":"file:///android_asset/spongebob/7.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Spongebob",
+      "title":"Spongebob 8",
+      "image":"file:///android_asset/spongebob/8.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Spongebob",
+      "title":"Spongebob 9",
+      "image":"file:///android_asset/spongebob/9.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Spongebob",
+      "title":"Spongebob 10",
+      "image":"file:///android_asset/spongebob/10.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Spongebob",
+      "title":"Spongebob 11",
+      "image":"file:///android_asset/spongebob/11.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Spongebob",
+      "title":"Spongebob 12",
+      "image":"file:///android_asset/spongebob/12.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Spongebob",
+      "title":"Spongebob 13",
+      "image":"file:///android_asset/spongebob/13.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "Squidward",
+      "title":"Squidward 1",
+      "image":"file:///android_asset/squidward/1.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "Squidward",
+      "title":"Squidward 2",
+      "image":"file:///android_asset/squidward/2.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "Squidward",
+      "title":"Squidward 3",
+      "image":"file:///android_asset/squidward/3.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Squidward",
+      "title":"Squidward 4",
+      "image":"file:///android_asset/squidward/4.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "Squidward",
+      "title":"Squidward 5",
+      "image":"file:///android_asset/squidward/5.jpg"
+    }
+
+  ]
+}
